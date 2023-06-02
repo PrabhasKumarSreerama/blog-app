@@ -1,0 +1,26 @@
+.header-part{
+    text-align: center;
+}
+
+.header-part h2{
+    color: rgb(41, 181, 215);
+    font-size: 2rem;
+}
+
+.header-part h1 {
+    color:rgb(81, 39, 216);
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    padding: 0.2rem;
+}
+
+.header-part h1 span{
+    color:rgb(233, 207, 207);
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.header-part p{
+    color: rgb(212, 161, 94);
+    font-size: 1.3rem;
+}
