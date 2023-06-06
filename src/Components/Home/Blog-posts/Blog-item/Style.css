@@ -52,3 +52,9 @@
     color: grey;
     font-weight: 600;
   }
+
+.blogitem-link {
+    text-decoration: none;
+    color: blue;
+    font-size: 2rem;
+}
